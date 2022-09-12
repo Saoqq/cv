@@ -15,12 +15,13 @@ Location: Voronezh, Russia
 ## Skills
 
 Main stack:
+
 |   |   |
 |---|---|
 |Languages|Kotlin/Java, SQL|
-|Frameworks & Libraries:|Spring Boot, jOOQ, Flyway, Junit,  MockK, Mockito |
+|Frameworks & Libraries:|Spring Boot, jOOQ, Flyway, Junit,  MockK, Mockito|
 |Databases:| PostgreSQL, ClickHouse|
-|Services:| Gitlab, GitHub, Grafana, Superset, Sentry, Jira, Confluence  |
+|Services:| Gitlab, GitHub, Grafana, Superset, Sentry, Jira, Confluence|
 
 Acquainted with:
 
