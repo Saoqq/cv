@@ -41,5 +41,5 @@ _DSR Corporation, Voronezh, Russia, https://dsr-corporation.com/_
 
 ## Education
 
-2018-2022 Bachelor of Computer Science, Voronezh State University, Computer Science Faculty
-2017 Cambridge FCE, B2
++ 2018-2022 Bachelor of Computer Science, Voronezh State University, Computer Science Faculty
++ 2017 Cambridge FCE, B2
