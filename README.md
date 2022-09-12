@@ -18,15 +18,16 @@ Main stack:
 
 |   |   |
 |---|---|
-|Languages|Kotlin/Java, SQL|
-|Frameworks & Libraries:|Spring Boot, jOOQ, Flyway, Junit,  MockK, Mockito|
+|Languages| Kotlin/Java, SQL|
+|Frameworks & Libraries:| Spring Boot, jOOQ, Flyway, Junit,  MockK, Mockito|
 |Databases:| PostgreSQL, ClickHouse|
 |Services:| Gitlab, GitHub, Grafana, Superset, Sentry, Jira, Confluence|
+|Tools:| Docker, IntelliJ Idea, VS Code |
 
 Acquainted with:
 
 + Python, bash, JS/TypeScript, Smali
-+ Tensorflow/Keras, Angular
++ Tensorflow/Keras, Angular, Vault By HashiCorp
 
 ## Professional experience
 
