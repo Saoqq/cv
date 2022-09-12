@@ -39,7 +39,7 @@ _DSR Corporation, Voronezh, Russia, https://dsr-corporation.com/_
 |---|---|
 |Data migration software|On-premise deployed tool that reliably transfers petabytes of data from legacy storages to cloud storages|
  Responsibilities:| Communication with customers; Architectural Design; Database design; On-premise deployment and support; Bare metal and virtual servers management (Debian, CentOs); |
-|Notable achievements:| 1. I have designed time-series metrics system based on Clickhouse. That provided realible and effective storage within limited hardware resouces.<br> 2. Deploy and management of Grafana and Superset instances. <br> |
+|Notable achievements:| 1. I have designed time-series metrics system based on Clickhouse. That provided realible and effective storage within limited hardware resources.<br> 2. Deploy and management of Grafana and Superset instances. <br> |
 
 ## Education
 
