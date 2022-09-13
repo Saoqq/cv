@@ -29,6 +29,11 @@ Acquainted with:
 + Python, bash, JS/TypeScript, Smali
 + Tensorflow/Keras, Angular, Vault By HashiCorp
 
+## Summary
+
+Motivated and enthusiastic Middle/Middle+ Kotlin developer with 2.5 years of professional experience.
+I am looking for a remote position that matches my main stack, however I am open to trying new technologies.
+
 ## Professional experience
 
 **March 2020 - present** Software Engineer
