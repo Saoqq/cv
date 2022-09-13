@@ -4,9 +4,9 @@ Languages:
 + English - intermediate (B2)
 
 Contacts:
-+ https://t.me/wXhexo
-+ https://vk.com/id67820843
-+ zakhar.korsakov@yandex.ru
++ <https://t.me/wXhexo>
++ <https://vk.com/id67820843>
++ <a href="mailto:zakhar.korsakov@yandex.ru">zakhar.korsakov@yandex.ru</a>
 
 Location: Voronezh, Russia
 + Prefer remote work
