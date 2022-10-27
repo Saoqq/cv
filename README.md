@@ -5,7 +5,6 @@ Languages:
 
 Contacts:
 + <https://t.me/wXhexo>
-+ <https://vk.com/id67820843>
 + <a href="mailto:zahar.korsakov@gmail.com">zahar.korsakov@gmail.com</a>
 
 Location: Voronezh, Russia
