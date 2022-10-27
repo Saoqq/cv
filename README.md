@@ -34,7 +34,7 @@ Acquainted with:
 Motivated and enthusiastic Middle/Middle+ Kotlin developer with 2.5 years of professional experience.
 I am looking for a remote position that matches my main stack, however I am open to trying new technologies.
 
-I am interested in Android development and Cloud Native solutions, however I don not have prodctuion experience in these areas.
+I am interested in Android development and Cloud Native solutions, however I do not have prodctuion experience in these areas.
 
 ## Professional experience
 
