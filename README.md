@@ -21,18 +21,21 @@ Main stack:
 |Languages| Kotlin/Java, SQL|
 |Frameworks & Libraries:| Spring Boot, jOOQ, Flyway, Junit,  MockK, Mockito|
 |Databases:| PostgreSQL, ClickHouse|
+|Message Brokers:| RabbitMQ|
 |Services:| Gitlab, GitHub, Grafana, Superset, Sentry, Jira, Confluence|
 |Tools:| Docker, IntelliJ Idea, VS Code |
 
 Acquainted with:
 
-+ Python, bash, JS/TypeScript, Smali
++ Python, bash, JS/TypeScript, Go, Android (Kotlin/Smali)
 + Tensorflow/Keras, Angular, Vault By HashiCorp
 
 ## Summary
 
 Motivated and enthusiastic Middle/Middle+ Kotlin developer with 2.5 years of professional experience.
 I am looking for a remote position that matches my main stack, however I am open to trying new technologies.
+
+I am interested in Android development and Cloud Native solutions, however I don not have prodctuion experience in these areas.
 
 ## Professional experience
 
@@ -43,8 +46,8 @@ _DSR Corporation, Voronezh, Russia, https://dsr-corporation.com/_
 |   |   |
 |---|---|
 |Data migration software|On-premise deployed tool that reliably transfers petabytes of data from legacy storages to cloud storages|
- Responsibilities:| Communication with customers; Architectural Design; Database design; On-premise deployment and support; Bare metal and virtual servers management (Debian, CentOs); |
-|Notable achievements:| 1. I have designed and implemented time-series metrics system based on Clickhouse. That provided realible and effective storage within limited hardware resources.<br> 2. Deploy and management of Grafana and Superset instances. <br> |
+ Responsibilities:| Communication with customers; Architecture Design; Database design; New features implementation; On-premise deployment and support; Bare metal and virtual servers management (Debian, CentOs); |
+|Notable achievements:| 1. I have designed and implemented time-series metrics system based on Clickhouse. It provided realible and effective storage within limited hardware resources. <br> 2. Deployment and management of Grafana, Superset, Harbor instances. |
 
 ## Education
 
