@@ -37,8 +37,8 @@ I am interested in Android development and cloud native solutions, however I do 
 
 ## Professional experience
 
-**May 2023 - now**  Senior Software Engineer
-**March 2020 - April 2023** Software Engineer
++ **May 2023 - now**  Senior Software Engineer
++ **March 2020 - April 2023** Software Engineer
 
 _DSR Corporation, Voronezh, Russia, https://dsr-corporation.com/_
 
