@@ -32,7 +32,7 @@ Acquainted with:
 
 Motivated and enthusiastic senior enigeer with 4 years of professional experience.
 I am looking for a remote or hybrid position that matches my main stack, though I am open to trying new technologies.
-Switch to Go lang in also an option for me.
+Switch to golang in also an option for me.
 
 I am also interested in Android Development (Jetpack Compose), data analytics and media processing.
 
